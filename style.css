@@ -1,0 +1,33 @@
+* {
+  list-style: none;
+  font-style: Open Sans"
+sans-serif;
+}
+span {
+  color: red;
+}
+#text {
+  color: red;
+}
+.back {
+  background-color: rgb(44, 62, 79);
+  color: rgb(255, 255, 255);
+}
+.col-md-3 {
+  
+
+
+}
+.row{
+  display: grid;
+  align-items: center;
+  justify-content: ;
+
+}
+.col-3{
+  text-align: wrap;
+  }
+
+  .h.col-md-3 ultra{
+   background-color: aqua;
+  }

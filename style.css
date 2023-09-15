@@ -13,11 +13,10 @@ span {
   background-color: rgb(44, 62, 79);
   color: rgb(255, 255, 255);
 }
-.col-md-3 {
-  
+.col-md-3   
 
 
-}
+
 .row{
   display: grid;
   align-items: center;
